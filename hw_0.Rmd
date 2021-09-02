@@ -14,11 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 2. Retype the following sentence in between the bars of red stars below:
 
-> I promise to commit early and often. In fact, I made a commit just now!
+> I promise to make commits early and often. In fact, I made a commit just now!
 
 ***********************************
 
 
 ***********************************
 
-3. Submit your assignment by pushing all of your commits to your repo on GitHub
+3. Submit your assignment by pushing all of your commits to your repo on GitHub.
